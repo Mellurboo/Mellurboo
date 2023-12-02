@@ -1,5 +1,5 @@
 About Me ✨
-I'm a 15 year old unity GameDeveloper at Select Studios. I really love what i do working with a team and learning different skills arround computer science.
+I'm a 16 year old unity GameDeveloper at Select Studios. I really love what i do working with a team and learning different skills arround computer science.
 I want to share me and my teams projects with the world. 
 
 - [Our Website]("www.select-studios.com")
